@@ -83,7 +83,7 @@ http://stackoverflow.com/questions/21447269/how-to-limit-the-length-of-text-in-a
      text-overflow: ellipsis;
 }
 
-/*my part*/
+/* help and about us*/
 main {
   overflow: auto;
 }
